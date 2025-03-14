@@ -8,16 +8,22 @@ I am a person who constantly learn new things about mobile application developme
 [![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#) &emsp;
 [![](https://img.shields.io/badge/Linux-00000F?style=for-the-badge&logo=linux&logoColor=white)](#) &emsp;
 [![](https://img.shields.io/badge/Git-f02913?style=for-the-badge&logo=git&logoColor=white)](#) &emsp;
+[![](https://img.shields.io/badge/TFS-0081CB?style=for-the-badge&logo=azure-devops&logoColor=white)](#)
 [![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](#) &emsp;
 [![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](#) &emsp;
 [![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](#) &emsp;
 [![](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](#) &emsp;
 [![](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](#) &emsp;
 [![](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](#) &emsp;
+[![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](#)
+[![](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)](#)
 [![](https://img.shields.io/badge/OpenCV-a5eb60?style=for-the-badge&logo=opencv_python&logoColor=white)](#) &emsp;
+[![](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)](#)
+[![](https://img.shields.io/badge/XMPP-002B5C?style=for-the-badge&logo=xmpp&logoColor=white)](#)
+[![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](#) &emsp;
+[![](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)](#)
 [![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#) &emsp;
 [![](https://img.shields.io/badge/Markdown-494d4c?style=for-the-badge&logo=markdown&logoColor=white)](#) &emsp;
-[![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](#) &emsp;
 
 
 ## Connect 🤝
