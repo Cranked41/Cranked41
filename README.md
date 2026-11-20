@@ -2,9 +2,9 @@
 
 **Senior Android Developer** · Kotlin Multiplatform · Kocaeli, Türkiye
 
-I build mobile products end to end: the Kotlin Multiplatform client, the Spring Boot API behind it and the React panel that operates it. Six years of production Kotlin, three apps live on Google Play, and iOS shipped from shared Kotlin code.
+I build mobile products end to end: the Kotlin Multiplatform client, the Spring Boot API behind it and the React panel that operates it. Six years of production Kotlin, four apps live on Google Play, and iOS shipped from shared Kotlin code.
 
-- 🔭 Currently working on **InfiDoc**, **Zikirmatik** and the Compose Multiplatform migration of **Sudoku Solver Pro**
+- 🔭 Currently working on **InfiDoc**, **Wordvoya**, **Zikirmatik** and the Compose Multiplatform migration of **Sudoku Solver Pro**
 - 💼 Android Developer at **DijitalKurye** — remote identity verification and digital contract signing
 - 🧠 On-device computer vision with TensorFlow Lite, ONNX Runtime, OpenCV and Tesseract
 - 🌐 Portfolio: [cranked41.github.io](https://cranked41.github.io/)
@@ -13,8 +13,9 @@ I build mobile products end to end: the Kotlin Multiplatform client, the Spring 
 
 | App | What it does | Stack |
 | --- | --- | --- |
-| [**InfiDoc — PDF Tools**](https://play.google.com/store/apps/details?id=com.cranked.infidoc.app) | Converts, edits, splits, signs and repairs documents, with OCR fallback and an AI assistant | Compose Multiplatform · Kotlin / Spring Boot API · React panel |
-| [**Zikirmatik — Digital Tasbeeh**](https://play.google.com/store/apps/details?id=com.cranked.zikirmater) | Prayer counter with saved dhikr sets, daily progress and a verse of the day, in eight languages | Compose Multiplatform (Android + iOS) · Ktor · Room · Play Billing |
+| [**InfiDoc — PDF & Image Tools**](https://play.google.com/store/apps/details?id=com.cranked.infidoc.app) | Converts, edits, splits, signs and repairs documents, with OCR fallback, an in-place PDF editor and an AI assistant | Compose Multiplatform · Kotlin / Spring Boot API · React panel |
+| [**Wordvoya — Word Puzzle Game**](https://play.google.com/store/apps/details?id=com.cranked.wordvoya) | Word hunt on islands of letters: swipe a route, fill the crossword, sail to the next world wonder — puzzles in 15 languages | Compose Multiplatform · on-device level generator · Node + SQLite score server |
+| [**Zikirmatik — Digital Tasbeeh**](https://play.google.com/store/apps/details?id=com.cranked.zikirmater) | Prayer counter with saved dhikr sets, daily progress, reminders and a verse of the day, in 23 languages | Compose Multiplatform (Android + iOS) · Ktor · Room · Play Billing |
 | [**Sudoku Solver Pro**](https://play.google.com/store/apps/details?id=com.cranked.sudokusolver) | Point the camera at a printed Sudoku and the solved grid appears over the photo — fully on device | CameraX · OpenCV · Tesseract OCR · Jetpack Compose |
 
 ## Skills 🚀
@@ -43,6 +44,7 @@ I build mobile products end to end: the Kotlin Multiplatform client, the Spring 
 [![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](#)
 [![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
 [![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](#)
+[![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](#)
 [![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
 
 **Computer Vision & Real-Time**
